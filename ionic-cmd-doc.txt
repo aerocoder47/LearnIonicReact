@@ -1,0 +1,40 @@
+1. ionic start modern-app blank --type angular
+
+
+2. standalone
+
+3. generate a service - ionic g service services/movie
+
+
+ionic g page details
+ionic g page homeDefer
+
+
+===================================
+
+ionic start myAppp blank --type react
+ionic serve
+ionic build
+
+ionic add cap ios
+ionic add cap android
+
+cap open ios
+cap open android 
+
+npx cap open ios
+npx cap open android
+
+ionic cap sync
+
+ionic cap run android --livereload --external --public-host=103.56.40.132
+ionic cap run android --livereload --external --public-host=192.168.1.7
+
+
+// Debug on ios
+safari
+Develop -> device-name -> (app Name) ip addres - home
+
+// Debug for android 
+chrome
+chrome://inspect/#devices -> Inspect
